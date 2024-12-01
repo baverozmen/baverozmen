@@ -1,4 +1,4 @@
-# Kullanıcı Profili
+# User Profile
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -13,9 +13,12 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-0A0A0A?style=flat-square&logo=metasploit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Hakkımda
-Merhaba! Ben **Baver**, yazılım geliştirme, siber güvenlik ve web geliştirme konularına ilgi duyan biriyim. **Linux**, **HTML**, **CSS**, **PHP**, ve **Python** üzerinde çalıştım ve bu alanlarda deneyim kazandım. Ayrıca **Capture The Flag (CTF)** yarışmalarına katılarak siber güvenlik bilgimi geliştirmeye çalışıyorum.
 
+## About Me
 
-## İlgi Alanlarım
-Siber güvenlik, web geliştirme ve otomasyon konularına ilgi duyuyorum. Özellikle **Capture The Flag (CTF)** yarışmalarında güvenlik açıklarını keşfetme ve çözüm üretme konusunda çalışıyorum.
+Hello! I am **Baver**, a person passionate about software development, cybersecurity,web development and AI. I have worked on **Linux**, **HTML**, **CSS**, **PHP**, and **Python**, gaining hands-on experience in these areas. Additionally, I participate in Capture The Flag (CTF) competitions to improve my cybersecurity skills.
+
+## My Interests
+
+I am particularly interested in cybersecurity, web development, and automation. In **Capture The Flag (CTF)** competitions, I focus on discovering vulnerabilities and producing solutions to tackle them.
+
